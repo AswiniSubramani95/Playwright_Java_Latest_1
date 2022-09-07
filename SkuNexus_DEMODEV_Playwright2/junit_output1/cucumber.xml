@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="9" time="199.346897">
+<testcase classname="Create Product Functionality" name="Login to the demo dev site" time="92.751002">
+<system-out><![CDATA[Given Go to the Login page..................................................passed
+When Enter the valid emailaddress...........................................passed
+And Enter the valid password................................................passed
+And Click on the Login button...............................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Create Product Functionality" name="Create Product Functionality" time="13.476632">
+<system-out><![CDATA[Given Launch the product grid url...........................................passed
+When Click on the add product button........................................passed
+And Enter the product name PlayAutoTest1....................................passed
+And Enter the product sku PlayAutoTest1.....................................passed
+And Enter the product Weight 300............................................passed
+And Enter the product description PlayAutoTest1.............................passed
+And Select the ParentMaster value Yes.......................................passed
+And Click on the save button................................................passed
+Then It displays the success message for adding the product.................passed
+]]></system-out>
+</testcase>
+<testcase classname="Create Product Functionality" name="Create Product Functionality 2" time="12.946106">
+<system-out><![CDATA[Given Launch the product grid url...........................................passed
+When Click on the add product button........................................passed
+And Enter the product name PlayAutoTest2....................................passed
+And Enter the product sku PlayAutoTest2.....................................passed
+And Enter the product Weight 300............................................passed
+And Enter the product description PlayAutoTest2.............................passed
+And Select the ParentMaster value Yes.......................................passed
+And Click on the save button................................................passed
+Then It displays the success message for adding the product.................passed
+]]></system-out>
+</testcase>
+<testcase classname="Create Product Functionality" name="Create Product Functionality 3" time="13.421255">
+<system-out><![CDATA[Given Launch the product grid url...........................................passed
+When Click on the add product button........................................passed
+And Enter the product name PlayAutoTest3....................................passed
+And Enter the product sku PlayAutoTest3.....................................passed
+And Enter the product Weight 300............................................passed
+And Enter the product description PlayAutoTest3.............................passed
+And Select the ParentMaster value Yes.......................................passed
+And Click on the save button................................................passed
+Then It displays the success message for adding the product.................passed
+]]></system-out>
+</testcase>
+<testcase classname="Create Product Functionality" name="Create Product Functionality 4" time="13.378421">
+<system-out><![CDATA[Given Launch the product grid url...........................................passed
+When Click on the add product button........................................passed
+And Enter the product name PlayAutoTest4....................................passed
+And Enter the product sku PlayAutoTest4.....................................passed
+And Enter the product Weight 300............................................passed
+And Enter the product description PlayAutoTest4.............................passed
+And Select the ParentMaster value Yes.......................................passed
+And Click on the save button................................................passed
+Then It displays the success message for adding the product.................passed
+]]></system-out>
+</testcase>
+<testcase classname="Create Product Functionality" name="Create Product Functionality 5" time="13.144118">
+<system-out><![CDATA[Given Launch the product grid url...........................................passed
+When Click on the add product button........................................passed
+And Enter the product name PlayAutoTest5....................................passed
+And Enter the product sku PlayAutoTest5.....................................passed
+And Enter the product Weight 300............................................passed
+And Enter the product description PlayAutoTest5.............................passed
+And Select the ParentMaster value Yes.......................................passed
+And Click on the save button................................................passed
+Then It displays the success message for adding the product.................passed
+]]></system-out>
+</testcase>
+<testcase classname="Create Product Functionality" name="Create Product Functionality 6" time="13.732562">
+<system-out><![CDATA[Given Launch the product grid url...........................................passed
+When Click on the add product button........................................passed
+And Enter the product name PlayAutoTest6....................................passed
+And Enter the product sku PlayAutoTest6.....................................passed
+And Enter the product Weight 300............................................passed
+And Enter the product description PlayAutoTest6.............................passed
+And Select the ParentMaster value Yes.......................................passed
+And Click on the save button................................................passed
+Then It displays the success message for adding the product.................passed
+]]></system-out>
+</testcase>
+<testcase classname="Create Product Functionality" name="Create Product Functionality 7" time="13.333218">
+<system-out><![CDATA[Given Launch the product grid url...........................................passed
+When Click on the add product button........................................passed
+And Enter the product name PlayAutoTest7....................................passed
+And Enter the product sku PlayAutoTest7.....................................passed
+And Enter the product Weight 300............................................passed
+And Enter the product description PlayAutoTest7.............................passed
+And Select the ParentMaster value Yes.......................................passed
+And Click on the save button................................................passed
+Then It displays the success message for adding the product.................passed
+]]></system-out>
+</testcase>
+<testcase classname="Create Product Functionality" name="Create Product Functionality 8" time="13.163583">
+<system-out><![CDATA[Given Launch the product grid url...........................................passed
+When Click on the add product button........................................passed
+And Enter the product name PlayAutoTest8....................................passed
+And Enter the product sku PlayAutoTest8.....................................passed
+And Enter the product Weight 300............................................passed
+And Enter the product description PlayAutoTest8.............................passed
+And Select the ParentMaster value Yes.......................................passed
+And Click on the save button................................................passed
+Then It displays the success message for adding the product.................passed
+]]></system-out>
+</testcase>
+</testsuite>
